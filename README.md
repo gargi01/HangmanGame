@@ -1,4 +1,4 @@
-# Coursework for CS50p: Project Hangman
+# Final Project for CS50P: Hangman
 
 ### Description:
 The program is like the Hangman game with a few modifications which are mentioned in each of the functions below.
