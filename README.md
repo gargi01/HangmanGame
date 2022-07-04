@@ -1,11 +1,9 @@
-# Project HANGMAN by Gargi Nirmal from Munich (Germany)
+# Coursework for CS50p: Project Hangman
 
 ### Description:
 The program is like the Hangman game with a few modifications which are mentioned in each of the functions below.
 The user gets to select the length of the word that she would like to guess. The user is then prompted to select the difficulty level of the game. The number of attempts that the user gets to guess the word are (length of the word) * 2 for Intermediate level and (length of the word) * 3 for Easy level. The user then has to guess one letter at a time until: either user guesses the word correctly, or the user exhausts all the attempts. There are some sanity checks to validate the input letters: for example it should only be a letter between a-z, there cannot be more than one letter at a time etc.<br>
-Apart from all the usual libraries, one additional library needs to be installed: `nltk`
--
-### Video Demo:  <https://youtu.be/7ha2dyuecpY>
+
 ### Files:
     project.py
 Contains all the functionality<br>
